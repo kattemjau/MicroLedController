@@ -1,10 +1,32 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of Project [MicroLedController.PrjPCB]
-   Generated File[Pick Place for MicroLedController.csv]
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [MicroLedController.PrjPCB]
+   Generated File[MicroLedController_Copper_Signal_Top.gbr]
+   Generated File[MicroLedController_Copper_Signal_Bot.gbr]
+   Generated File[MicroLedController_Pads_Bot.gbr]
+   Generated File[MicroLedController_Pads_Top.gbr]
+   Generated File[MicroLedController_Legend_Bot.gbr]
+   Generated File[MicroLedController_Soldermask_Bot.gbr]
+   Generated File[MicroLedController_Legend_Top.gbr]
+   Generated File[MicroLedController_Paste_Top.gbr]
+   Generated File[MicroLedController_Soldermask_Top.gbr]
+   Generated File[MicroLedController_Mechanical_13.gbr]
+   Generated File[MicroLedController_Mechanical_4.gbr]
+   Generated File[MicroLedController_Mechanical_16.gbr]
+   Generated File[MicroLedController_Mechanical_1.gbr]
+   Generated File[MicroLedController_Mechanical_7.gbr]
+   Generated File[MicroLedController_Mechanical_15.gbr]
+   Generated File[MicroLedController_Profile.gbr]
+   Generated File[MicroLedController_NPTH_Drill.gbr]
+   Generated File[MicroLedController_PTH_Drill.gbr]
+   Generated File[MicroLedController_Drawing_1.gbr]
+   Generated File[MicroLedController_Drillmap_1.gbr]
+   Generated File[MicroLedController.RUL]
+   Generated File[MicroLedController.EXTREP]
+   Generated File[MicroLedController.REP]
 
 
-Files Generated   : 1
+Files Generated   : 23
 Documents Printed : 0
 
-Finished Output Generation At 6:23:49 PM On 1/19/2020
+Finished Output Generation At 6:33:55 PM On 1/19/2020
