@@ -51,9 +51,9 @@ Generating : Bottom
 
 
 Used DCodes :
-    D23
     D24
     D25
+    D26
     D30
     D31
     D32
@@ -124,6 +124,7 @@ Generating : Bottom Overlay
 
 Used DCodes :
     D38
+    D39
 *************************************************************
 
 *************************************************************
@@ -138,7 +139,6 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D39
     D40
     D41
     D42
@@ -146,6 +146,7 @@ Used DCodes :
     D44
     D45
     D46
+    D47
 *************************************************************
 
 *************************************************************
@@ -157,7 +158,7 @@ Generating : Top Overlay
 
 Used DCodes :
     D29
-    D47
+    D38
     D48
     D49
     D50
@@ -204,7 +205,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D39
     D40
     D41
     D42
@@ -212,6 +212,7 @@ Used DCodes :
     D44
     D45
     D46
+    D47
     D53
     D54
     D55

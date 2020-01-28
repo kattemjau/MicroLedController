@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\kattemjau\Downloads\MicroLedController\MicroLedController.PcbDoc
+DRC Rules Export File for PCB: C:\Users\XPS\Downloads\MicroLedController\MicroLedController.PcbDoc
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
